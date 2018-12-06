@@ -1,2 +1,2 @@
 # webpack
-Example of webpack config file
+Example of webpack and eslint config files
